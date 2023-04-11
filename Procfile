@@ -1,1 +1,1 @@
-worker: npm install npm@latest -g && npm start
+worker: node index.js
